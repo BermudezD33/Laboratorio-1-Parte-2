@@ -1,0 +1,7 @@
+C:\Users\Mega\source\repos\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+C:\Users\Mega\source\repos\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\Users\Mega\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csprojAssemblyReference.cache
+C:\Users\Mega\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+C:\Users\Mega\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\Users\Mega\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+C:\Users\Mega\source\repos\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb

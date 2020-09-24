@@ -1,0 +1,6 @@
+C:\Users\Mega\source\repos\ControlWindows\TraductorInglesEsp\bin\Debug\TraductorInglesEsp.dll
+C:\Users\Mega\source\repos\ControlWindows\TraductorInglesEsp\bin\Debug\TraductorInglesEsp.pdb
+C:\Users\Mega\source\repos\ControlWindows\TraductorInglesEsp\obj\Debug\TraductorInglesEsp.UserControl1.resources
+C:\Users\Mega\source\repos\ControlWindows\TraductorInglesEsp\obj\Debug\TraductorInglesEsp.csproj.GenerateResource.cache
+C:\Users\Mega\source\repos\ControlWindows\TraductorInglesEsp\obj\Debug\TraductorInglesEsp.dll
+C:\Users\Mega\source\repos\ControlWindows\TraductorInglesEsp\obj\Debug\TraductorInglesEsp.pdb
